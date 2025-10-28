@@ -21,6 +21,15 @@
 
 ---
 
+## Environment
+
+```
+conda env create -f environment.yml
+conda activate mogo
+pip install -e ./mamba
+pip install -e ./causal-conv1d
+```
+
 ## 🧪 Citation
 
 ```bibtex
