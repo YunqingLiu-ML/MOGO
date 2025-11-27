@@ -30,6 +30,16 @@ pip install -e ./mamba
 pip install -e ./causal-conv1d
 ```
 
+
+## 📦 Pretrained Models
+
+MOGO is built upon the publicly available VideoMamba pretrained models released by OpenGVLab. Download the pretrained weights from:
+
+🔗 https://huggingface.co/OpenGVLab/VideoMamba/
+
+If you use VideoMamba models in your research, please consider citing their work.
+
+
 ## 🧪 Citation
 
 ```bibtex
